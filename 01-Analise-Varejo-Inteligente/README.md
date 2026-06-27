@@ -74,4 +74,9 @@ Ao acionar o segundo botão do menu lateral, o dashboard reorganiza-se completam
 3.  **Anomalia de São Paulo:** Sendo o maior mercado consumidor do país, apresentar o menor faturamento entre as capitais analisadas na visão de fevereiro indica a necessidade urgente de uma revisão da estratégia de vendas local ou ajuste na distribuição de produtos.
 
 ---
-Documentação desenvolvida para portfólio técnico no GitHub. 🚀
+<img width="1418" height="789" alt="image" src="https://github.com/user-attachments/assets/bd8a8c9f-5f57-4dc3-8c3d-e24dbb83c916" />
+<img width="1414" height="785" alt="image" src="https://github.com/user-attachments/assets/491d07b9-8f50-4b65-af7b-4dd1dd14efa7" />
+<img width="1409" height="781" alt="image" src="https://github.com/user-attachments/assets/154b4742-e7f4-4bff-9b04-ede7b2c8c97f" />
+
+
+
